@@ -1,14 +1,14 @@
 {
-  "name": "experience.center.reporter.core",
-  "version": "1.0.0",
-  "description": "StormRunner Functional reporter core",
+  "name": "srf.reporter.core",
+  "version": "1.30.0",
+  "description": "StormRunner Functional reporters core package",
   "main": "lib/app.js",
   "types": "./lib/app.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "concat-stream": "1.6.0",
     "lodash": "4.17.4",
