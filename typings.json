@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "concat-stream": "github:DefinitelyTyped/DefinitelyTyped/concat-stream/index.d.ts#8d3b3fbdc489c764d2e98fa5f633be8cc7ea387a",
+    "form-data": "github:DefinitelyTyped/DefinitelyTyped/form-data/index.d.ts#6980db6a373e8e9f2e860046fd7f87182d4b7609",
+    "lodash": "github:types/npm-lodash#6557c3cd628ef6b39abfdc826b27ea1f06d8af89",
+    "request": "github:DefinitelyTyped/DefinitelyTyped/request/index.d.ts#a73466afdb0f175dc91966a86ee32c30f35a6e7d"
+  },
+  "ambientDependencies": {
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#4ec3c5bf291bc02f49eb30c1077340b235165c67"
+  }
+}
